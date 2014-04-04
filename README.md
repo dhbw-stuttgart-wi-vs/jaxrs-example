@@ -1,2 +1,2 @@
-jaxws-example
+JAX RS simple example project
 =============
